@@ -23,7 +23,7 @@
 | **avatar** | URL da foto do usuário | VARCHAR | 255 | Não | Não | Não | Sim | |
 | **full_name** | Nome completo do usuário | VARCHAR | 100 | Não | Não | Não | Sim | |
 | **title** | Função do usuário | VARCHAR | 50 | Não | Não | Não | Sim | |
-| **username** | Nome de usuário único | VARCHAR | 50 | Não | Não | Sim | Sim | |
+| **username** | Nome de usuário único | VARCHAR | 50 | Não | Não | Sim | Não | |
 
 ---
 
